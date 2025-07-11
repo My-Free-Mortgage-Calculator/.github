@@ -1,4 +1,4 @@
-## Introducing My Free Mortgage Calculator – Plan Your Home Loan with Ease
+## Introducing Free Mortgage Calculator – Plan Your Home Loan with Ease
 
 If you are planning to take a home loan or exploring mortgage options, understanding your monthly repayments is one of the most important steps before making any financial decision. To help you with this, I have built a [free online mortgage calculator](https://www.fininformatory.in/2025/07/mortgage-calculator.html)  that allows you to estimate your monthly EMI, total interest payable, and the overall repayment amount.
 
